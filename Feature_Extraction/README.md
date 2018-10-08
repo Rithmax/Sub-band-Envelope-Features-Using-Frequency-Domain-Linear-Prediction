@@ -1,6 +1,6 @@
 # Front-end Feature Extraction
 
-Tools: Matlab (Tesed with Matlab 2018a)
+Tools: Matlab (Tested with Matlab 2018a)
 
 Usage: Feature Extraction
 
