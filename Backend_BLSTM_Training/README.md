@@ -1,6 +1,6 @@
 # Backend BLSTM Training
 
-Tools: Tensorflow (tested on version 1.4.1), Keras (tested on version 2.1.6)
+Tools: Tensorflow (tested on version 1.4.1), Keras (tested on version 2.1.6), python 3.6
 
 Usage: Bidirectional LSTM network training for sub-band envelope features
 
