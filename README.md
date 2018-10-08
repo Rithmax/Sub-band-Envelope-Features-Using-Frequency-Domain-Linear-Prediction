@@ -11,3 +11,5 @@ Usage:
 1) Feature Extraction: fdlp_extraction_AP18_OLR.m
 
 2) Backend BLSTM Training: FDLP_BLSTM_1s.py
+
+Backend Reference: Fernando, S., Sethu, V., Ambikairajah, E., Epps, J. (2017) Bidirectional Modelling for Short Duration Language Identification. Proc. Interspeech 2017, 2809-2813, DOI: 10.21437/Interspeech.2017-286. (https://www.isca-speech.org/archive/Interspeech_2017/abstracts/0286.html)
