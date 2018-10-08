@@ -2,10 +2,9 @@
 
 Tools: Matlab (Tesed with Matlab 2018a)
 
-Usage:
-1) Feature Extraction: fdlp_extraction_AP18_OLR.m
+Usage: Feature Extraction
 
-2) Backend BLSTM Training
+* fdlp_extraction_AP18_OLR.m
 
 Example: fdlp_extraction_sample.m
 
